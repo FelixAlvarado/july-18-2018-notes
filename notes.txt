@@ -1,0 +1,6 @@
+Random javaScript Trivia 
+
+Promise vs callback: promises are cleaner overall and have a catching mechanism. 
+
+Anti-patter w/ MVC - Anti-patterns are an inefficient or wrong solution to a problem that peopele c ommonly do. On general example would be having a god class when making a game. As far as MVC is concerned, an example would be making sql queries in a controller.
+
